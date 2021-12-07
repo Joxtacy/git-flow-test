@@ -1,1 +1,2 @@
 This is some stuff added in my first feature branch.
+There was a bug here that was fixed during this release process.
