@@ -1,0 +1,12 @@
+{
+  "name": "fake_package",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesper Hasselquist <jesper.hasselquist@gmail.com> (https://joxtacy.github.io/)",
+  "license": "ISC"
+}
